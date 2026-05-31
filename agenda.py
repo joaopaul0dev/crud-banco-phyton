@@ -1,6 +1,3 @@
-# 3. Escreva um programa para armazenar uma agenda de telefones em um dicionário.
-# Cada pessoa pode ter um ou mais telefones e a chave do dicionário é o nome da
-# pessoa.
 agenda = {}
 
 def adicionar():

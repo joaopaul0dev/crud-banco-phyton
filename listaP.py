@@ -1,6 +1,3 @@
-# 5. Escreva um programa que recebe um dicionário com a chave nome e o valor idade
-# e imprima uma lista dos nomes por ordem (crescente) de idade.
-
 dicionario = {}
 
 def gerarNovaPessoa():
